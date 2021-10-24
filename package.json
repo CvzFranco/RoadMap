@@ -1,0 +1,26 @@
+{
+  "name": "roadmap",
+  "version": "1.0.0",
+  "description": "interactive javascript roadmap",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CvzFranco/RoadMap.git"
+  },
+  "author": "Chiavuzzo Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CvzFranco/RoadMap/issues"
+  },
+  "homepage": "https://github.com/CvzFranco/RoadMap#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0",
+    "parcel": "^2.0.0"
+  },
+  "dependencies": {
+    "sass": "^1.43.3"
+  }
+}
